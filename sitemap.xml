@@ -1,54 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
-     <loc>None</loc>
+     <loc>https://zxbmmt.github.io/study-notes/computer-basics/network/</loc>
      <lastmod>2020-12-21</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
+     <loc>https://zxbmmt.github.io/study-notes/computer-basics/operating-system/</loc>
      <lastmod>2020-12-21</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
+     <loc>https://zxbmmt.github.io/study-notes/java/collection/</loc>
      <lastmod>2020-12-21</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
+     <loc>https://zxbmmt.github.io/study-notes/java/io/</loc>
      <lastmod>2020-12-21</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
+     <loc>https://zxbmmt.github.io/study-notes/java/concurrent/</loc>
      <lastmod>2020-12-21</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
+     <loc>https://zxbmmt.github.io/study-notes/java/jmm/</loc>
      <lastmod>2020-12-21</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
+     <loc>https://zxbmmt.github.io/study-notes/java/jvm/</loc>
      <lastmod>2020-12-21</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
+     <loc>https://zxbmmt.github.io/study-notes/java/gc/</loc>
      <lastmod>2020-12-21</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
+     <loc>https://zxbmmt.github.io/study-notes/</loc>
      <lastmod>2020-12-21</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
+     <loc>https://zxbmmt.github.io/study-notes/</loc>
      <lastmod>2020-12-21</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
+     <loc>https://zxbmmt.github.io/study-notes/</loc>
      <lastmod>2020-12-21</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
+     <loc>https://zxbmmt.github.io/study-notes/</loc>
      <lastmod>2020-12-21</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
+     <loc>https://zxbmmt.github.io/study-notes/</loc>
+     <lastmod>2020-12-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://zxbmmt.github.io/study-notes/</loc>
+     <lastmod>2020-12-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://zxbmmt.github.io/study-notes/</loc>
+     <lastmod>2020-12-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://zxbmmt.github.io/study-notes/</loc>
+     <lastmod>2020-12-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://zxbmmt.github.io/study-notes/</loc>
+     <lastmod>2020-12-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://zxbmmt.github.io/study-notes/</loc>
+     <lastmod>2020-12-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://zxbmmt.github.io/study-notes/</loc>
+     <lastmod>2020-12-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://zxbmmt.github.io/study-notes/</loc>
+     <lastmod>2020-12-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://zxbmmt.github.io/study-notes/</loc>
      <lastmod>2020-12-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
